@@ -19,6 +19,9 @@ namespace greeting_card
         }
 
         private void Form1_Shown(object sender, EventArgs e)
+
+            //James Koch September 24 2019, Program is about a greeting card but also a "Virus
+
         {//the commands 
             Graphics g = this.CreateGraphics();
             Pen tilepen = new Pen(Color.Black);
